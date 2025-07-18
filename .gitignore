@@ -42,3 +42,8 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+
+Sources/Constants.m
+
+.DS_Store
