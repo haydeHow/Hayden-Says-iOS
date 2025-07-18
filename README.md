@@ -1,4 +1,4 @@
-# 📱 Hayden-Says
+# <img src="logo.png" width="32" valign="middle" /> 📱 Hayden-Says
 
 > An iOS app has some of my common sayings for my girlfriend with smart notifications and a clean UI using native Apple frameworks and APNs.
 
@@ -28,8 +28,6 @@
 > You can find all images inside the [`/screenshots`](./screenshots) folder
 
 ---
-
-## 📂 Project Structure
 
 
 
