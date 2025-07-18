@@ -45,5 +45,6 @@ fastlane/test_output
 
 
 Sources/Constants.m
+Sources/Assets*
 
 .DS_Store
