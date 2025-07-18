@@ -1,0 +1,36 @@
+name: App
+targets:
+  Hayden-Says:
+    type: application
+    platform: iOS
+    deploymentTarget: "13.0"
+    sources: [Sources]
+    info:
+      path: Sources/Info.plist
+      properties:
+        CFBundleDevelopmentRegion: $(DEVELOPMENT_LANGUAGE)
+        CFBundleExecutable: $(EXECUTABLE_NAME)
+        CFBundleIdentifier: $(PRODUCT_BUNDLE_IDENTIFIER)
+        CFBundleInfoDictionaryVersion: "6.0"
+        CFBundleName: $(PRODUCT_NAME)
+        CFBundlePackageType: APPL
+        CFBundleShortVersionString: "1.0"
+        CFBundleVersion: "1"
+
+        UILaunchScreen: {}
+
+        UIApplicationSupportsMultipleScenes: true
+        UIApplicationSceneManifest:
+          UISceneConfigurations:
+            UIWindowSceneSessionRoleApplication:
+              - UISceneConfigurationName: Default Configuration
+                UISceneDelegateClassName: SceneDelegate
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.example.Hayden-Says
+        CODE_SIGN_STYLE: Automatic
+        TARGETED_DEVICE_FAMILY: "1"
+        PRODUCT_NAME: Hayden-Says
+        DEVELOPMENT_LANGUAGE: en
+        ENABLE_BITCODE: NO
+
