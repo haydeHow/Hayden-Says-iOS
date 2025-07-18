@@ -1,6 +1,6 @@
 # 📱 Hayden-Says
 
-> An iOS app that delivers smart notifications and a clean UI using native Apple frameworks and APNs.
+> An iOS app has some of my common sayings for my girlfriend with smart notifications and a clean UI using native Apple frameworks and APNs.
 
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
 ![Xcode](https://img.shields.io/badge/Xcode-15.0%2B-blue)
