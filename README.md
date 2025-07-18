@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
 ![Xcode](https://img.shields.io/badge/Xcode-15.0+-blue)
-![Language](https://img.shields.io/badge/language-Objective--C%20%7C%20Swift-orange)
+![Language](https://img.shields.io/badge/language-Objective--C%)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
