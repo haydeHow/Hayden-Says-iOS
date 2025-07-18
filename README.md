@@ -1,4 +1,4 @@
-# <img src="images/logo.png" width="200" valign="middle" /> Hayden-Says
+# <img src="images/logo.png" width="200" valign="middle" style="border-radius: 20px;" /> Hayden-Says
 
 > An iOS app has some of my common sayings for my girlfriend with smart notifications and a clean UI using native Apple frameworks and APNs.
 
